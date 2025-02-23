@@ -1,0 +1,14 @@
+C:\Users\steve\OneDrive\Documents\BelajarC#\obj\Debug\net9.0\BelajarC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive\Documents\BelajarC#\obj\Debug\net9.0\BelajarC#.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\BelajarC#\obj\Debug\net9.0\BelajarC#.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\BelajarC#\obj\Debug\net9.0\BelajarC#.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\BelajarC#\bin\Debug\net9.0\BelajarC#.exe
+C:\Users\steve\OneDrive\Documents\BelajarC#\bin\Debug\net9.0\BelajarC#.deps.json
+C:\Users\steve\OneDrive\Documents\BelajarC#\bin\Debug\net9.0\BelajarC#.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\BelajarC#\bin\Debug\net9.0\BelajarC#.dll
+C:\Users\steve\OneDrive\Documents\BelajarC#\bin\Debug\net9.0\BelajarC#.pdb
+C:\Users\steve\OneDrive\Documents\BelajarC#\obj\Debug\net9.0\BelajarC#.dll
+C:\Users\steve\OneDrive\Documents\BelajarC#\obj\Debug\net9.0\refint\BelajarC#.dll
+C:\Users\steve\OneDrive\Documents\BelajarC#\obj\Debug\net9.0\BelajarC#.pdb
+C:\Users\steve\OneDrive\Documents\BelajarC#\obj\Debug\net9.0\BelajarC#.genruntimeconfig.cache
+C:\Users\steve\OneDrive\Documents\BelajarC#\obj\Debug\net9.0\ref\BelajarC#.dll
